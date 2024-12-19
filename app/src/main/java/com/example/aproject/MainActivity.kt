@@ -35,11 +35,9 @@ class MainActivity : AppCompatActivity() {
             }
 
             try {
-                startActivity(intent)
+
             } catch (e: Exception) {
                 e.printStackTrace()
-                // 액티비티를 찾지 못한 경우 처리
-                Toast.makeText(this, "${e.printStackTrace()}", Toast.LENGTH_SHORT).show()
             }
 
         }
