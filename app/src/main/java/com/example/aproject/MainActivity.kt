@@ -23,7 +23,7 @@ class MainActivity : AppCompatActivity() {
             insets
         }
 
-        // 버튼 클릭 시 B 앱의 MainActivity로 이동
+        // 버튼 클릭 시 B 앱의 MainActivity로 이동2
         val button = findViewById<Button>(R.id.btnMove)
         button.setOnClickListener {
             val intent = Intent().apply {
