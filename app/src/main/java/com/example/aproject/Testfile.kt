@@ -8,4 +8,8 @@ class Testfile {
     fun test2() {
         println("Hello World")
     }
+
+    fun test3() {
+        println("Hello World")
+    }
 }
