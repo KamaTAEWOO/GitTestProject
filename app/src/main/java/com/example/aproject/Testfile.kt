@@ -5,4 +5,7 @@ class Testfile {
         println("Hello World")
     }
 
+    fun b() {
+        println("Hello World")
+    }
 }
