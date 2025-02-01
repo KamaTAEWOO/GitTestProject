@@ -17,7 +17,7 @@ class Testfile {
         println("Hello, World!")
     }
 
-    fun test7() {
+    fun test5() {
         println("Hello, World!")
     }
 }
