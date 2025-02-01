@@ -24,4 +24,8 @@ class Testfile {
     fun test6() {
         println("Hello, World!")
     }
+
+    fun test7() {
+        println("Hello, World!")
+    }
 }
